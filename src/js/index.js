@@ -1,0 +1,1 @@
+alert("Saudações! É um prazer recebê-lo. Esperamos que você tenha uma experiência incrivel e aprenda tudo sobre Educação Corporativa. :)");
